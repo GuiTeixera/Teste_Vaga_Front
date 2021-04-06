@@ -1,0 +1,320 @@
+html, body{
+	margin: 0;
+	width: 100%;
+	position: center;
+}
+
+
+.container{
+	width: 520px;
+	height: 0 auto;
+	margin: 0 auto;
+}
+.faixa{
+    background-color: #FAF7F5;
+    width: 550px;
+    height: 60px;
+    margin-top: -15px;
+    text-align: center;
+    padding: 15px 50px 0 50px;
+    border-bottom: 1px solid grey;
+    letter-spacing: normal;
+    line-height: 3px;
+    
+}
+
+.logo{
+    margin-left: 560px;
+    height: 120px;
+    bottom: 90px;
+    width: 60px;
+}
+.logo img{
+    margin-top: 30px;
+    width: 60px;
+    height: 60px
+    
+}
+.bg-azul{
+    background-color: #0D1733;
+    width: 640px;
+    height: 404px;
+}
+.salario-titulo{
+    color: #DDAE60;
+    font-size: 45px;
+    padding-right: 20px;
+    margin-left: 25px;
+    line-height: 35px;
+    margin-top: 40px;
+    
+}
+
+.salario-texto{
+    color: white;
+    font-size: 20px;
+    margin-right: 25px;
+    line-height: 25px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.salario-imagem img{
+    width: 270px;
+    height: 404px;
+}
+
+.relacionamento{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #56504C;
+    margin-left: 45px;
+    font-family: arial;
+    font-size: 14px;
+}
+
+.vantagens{
+    background-color: #FFE6D5;
+    border-top: 1px solid #DDAE60;
+    border-bottom: 1px solid #DDAE60;
+    color: #3C3C3C;
+    padding: 30px;
+    margin-left: 40px;
+    width: 500px;
+    height: 270px;
+}
+.vantagens b {
+    font-family: arial;
+    font-size: 16px;
+    margin-top: 40px;
+    
+}
+.reducao-texto h4, .anuidade-texto h3{
+    margin-top: 60px;
+    color: #D0A967;
+    font-family: arial;
+    font-size: 16px;
+   
+}
+.reducao-texto p, b, .anuidade-texto p, b{
+    margin-top: -20px;
+    color: black;
+    font-family: arial;
+    font-size: 13px;
+}
+.reducao-texto, .anuidade-texto{
+    margin-left: 30px;
+    
+}
+.reducao-img{
+    margin-top: 50px;
+    
+}
+.anuidade-img{
+    margin-top: 50px;
+   
+}
+.info {
+    margin-top: 50px;
+    margin-left: 40px;    
+    font-size: 14px;
+    font-family: arial;
+    font-weight: bold;
+    
+}
+.informacao{
+    padding: 30px;
+    margin-left: 10px;
+    width: 500px;
+    height: 270px;
+}
+.informacao-img {
+    margin-top: 10px;
+    
+}
+.info-img{
+    margin-top: 30px;
+}
+.informacao-texto {
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.info-texto{ 
+    margin-top: 35px;
+    margin-left: 25px;   
+    line-height: 2px;
+}
+.titulo{
+    background-color: #FFF2E9;    
+    color: #3C3C3C;
+    padding: 30px;    
+    width: 600px;
+    height: 350px;
+    
+}
+.titulo h2 {
+    font-family: arial;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.assessoria-texto h4, .experiencia-texto h4, .investimento-texto h4{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 18px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.assessoria-texto p, .experiencia-texto p, .investimento-texto p{
+    margin-left: 60px;
+    font-family: arial;
+    font-size: 14px;
+    text-align: justify;
+    margin-top: -20px;
+}
+.assessoria-img, .experiencia-img, .investimento-img{
+    margin-top: 20px;
+    width: 35px;
+    height: 35px;
+    margin-left: 40px;
+}
+.btn button{
+    background: #DDAE60;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial;
+    color: white;
+    width: 383px;
+    height: 41px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 110px;
+    border-radius: 5px;
+    border-color: #F6D793;
+}
+.footer{
+    background: #F9F7F7;
+    width: 646px;
+    height: 622px;
+    
+}
+
+
+.footer h2, h3{
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.footer-img img {
+   margin-top: 50px;   
+   width: 48px;
+   height: 48px;
+   margin-left: 20px;
+}
+.footer-img{
+    margin-left: 170px;
+}
+.itau{
+    font-family: arial;
+    font-size: 20;
+
+    
+}
+.canais-esquerda{
+    border-right: 1px solid #0D1733;
+    margin-top: 50px;
+    width: 400px;
+
+
+}
+.canais-esquerda h2 {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: arial;
+    margin-left: 60px;
+}
+.canais-esquerda p{
+    margin-right: 100px;
+    margin-left: 60px;
+}
+.canais-direita{
+    margin-top: 50px;
+    margin-right: 50px;
+
+}
+
+.canais-direita img{
+    width: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 40px;
+
+}
+
+
+.canais{
+    border-top: 1px solid #0D1733;
+    border-bottom: 1px solid #0D1733;
+    width: 650px;
+    margin-top: -350px;
+    
+}
+.div2-f-flex {
+    margin-top: -20px;
+}
+.div2-f-flex{
+    margin-top: 30px;
+}
+.div2-f-flex{
+    margin-top: -10px;
+}
+.titul h3{
+  font-size: 11px;
+  font-family: arial;
+  font-weight: bold;
+   margin-left: 60px;
+   text-align: justify;
+}
+.dados{
+    margin-left: 60px;
+   text-align: justify;
+   font-family: arial;
+   font-size: 11px;
+}
+.titu h3{
+    font-size: 11px;
+    font-family: arial;
+    font-weight: bold;
+     margin-left: 60px;
+     text-align: justify;
+  }
+  .dado{
+      margin-left: 60px;
+     text-align: justify;
+     font-family: arial;
+     font-size: 11px;
+     
+  }
+  .final {
+      width: 500px;
+      font-family: Arial;
+      font-size: 11px;
+      margin-left: 30px;
+      margin-top: 40px;
+      
+      
+}
+
+.contatos{
+    background: #F9F7F7;
+      width: 646px;
+      height: 322px;
+}
+.contato{
+    margin-top: 20px;
+}
